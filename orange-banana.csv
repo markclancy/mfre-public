@@ -1,7 +1,7 @@
 fruit,col1,col2,col3,col4
 orange,0,1,1,0
-orange,1,0,0,1
-orange,1,0,0,1
+orange,1,1,1,1
+orange,1,1,1,1
 orange,0,1,1,0
 banana,0,0,2,2
 banana,0,2,0,0
